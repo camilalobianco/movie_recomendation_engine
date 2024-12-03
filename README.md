@@ -195,3 +195,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - New features
 - Documentation improvements
 - Performance optimizations
+
+## Dataset source
+
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
